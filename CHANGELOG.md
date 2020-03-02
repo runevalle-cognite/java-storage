@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.105.1](https://www.github.com/googleapis/java-storage/compare/v1.105.0...v1.105.1) (2020-03-02)
+
+
+### Dependencies
+
+* update dependency com.google.api-client:google-api-client to v1.30.9 ([#154](https://www.github.com/googleapis/java-storage/issues/154)) ([84dfab9](https://www.github.com/googleapis/java-storage/commit/84dfab9a89d8cbe2c22dd9dea7b05ddcc7b3eb62))
+
 ## [1.105.0](https://www.github.com/googleapis/java-storage/compare/v1.104.0...v1.105.0) (2020-02-28)
 
 
